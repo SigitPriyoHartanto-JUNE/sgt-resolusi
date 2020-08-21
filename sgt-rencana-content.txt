@@ -4,6 +4,7 @@ RENCANA CONTENT SGT
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ Bootstrap
 - Flutter
 - PHP Framework
   * Laravel
