@@ -3,6 +3,7 @@ RENCANA CONTENT SGT
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Angular
     ^ Vue
     ^ Bootstrap
 - Flutter
