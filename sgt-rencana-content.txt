@@ -3,7 +3,9 @@ RENCANA CONTENT SGT
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Angular
 - Flutter
+- PHP Framework
+  * Laravel
 - React Native
-- Struktur Data Dasar
 - Tutorial 
