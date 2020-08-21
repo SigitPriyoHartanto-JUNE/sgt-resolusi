@@ -1,8 +1,8 @@
 SGT RESOLUSI
 - Belajar Website Programmer (Front End and Back End Developer)
-- Membuat Toko Online
 - Membuat MarketPlace Online
 - Membuat Aplikasi FoodMarket
 - Membuat Forum Diskusi UMKM
 - Belajar Front End Developer
 - Belajar Back End Developer
+- Membuat Tutorial Toko Online untuk UMKM
