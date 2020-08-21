@@ -4,3 +4,5 @@ SGT RESOLUSI
 - Membuat MarketPlace Online
 - Membuat Aplikasi FoodMarket
 - Membuat Forum Diskusi UMKM
+- Belajar Front End Developer
+- Belajar Back End Developer
